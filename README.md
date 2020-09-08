@@ -1,2 +1,9 @@
-# mustPassAa
-Aa
+{
+"io":1,
+"url":"http://www.baidu.com",
+"orientation":3,
+"allUseSafari":0,
+"enableScroll":1,
+"isLandscapeSuportFullScreen":1,
+"appendIdfa":0
+}
